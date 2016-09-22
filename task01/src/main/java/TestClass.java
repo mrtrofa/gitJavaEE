@@ -13,5 +13,9 @@ public class TestClass {
             System.out.println(j);
             j++;
         }
+
+        int k;
+        k = 0;
+        System.out.println("k=" + k);
     }
 }
